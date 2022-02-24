@@ -21,7 +21,6 @@
   <img title="JavaScript" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/js-icon.svg" width="50x">
   <img title="React.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/react-icon.svg" width="50x">
   <img title="Next.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/nextjs-icon.svg" width="50x">
-  <img title="Boostrap" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/bootstrap-icon.svg" width="50x">
 </p>
 
 ### ⚙️ Back-End
