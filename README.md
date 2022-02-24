@@ -43,3 +43,4 @@
 
 - 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
 - 🌱 [Meu "Digital Garden"](https://jardim-gabilima109.vercel.app/)
+- 🖥️ [Portifólio](https://gabriela-lima.super.site/)
