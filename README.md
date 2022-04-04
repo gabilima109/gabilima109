@@ -1,8 +1,6 @@
 
 
-# <img src="https://raw.githubusercontent.com/gabilima109/gabilima109/main/images/hello.gif" width="30px"> Hey, stranger 
-
-### I'm Gabi
+## <img src="https://raw.githubusercontent.com/gabilima109/gabilima109/main/images/hello.gif" width="30px"> Hey, I'm Gabi
 
 - :computer:  Junior Front-End Developer 
 - 💼 Currently an intern at IBM
