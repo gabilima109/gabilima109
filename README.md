@@ -3,7 +3,7 @@
 ## <img src="https://raw.githubusercontent.com/gabilima109/gabilima109/main/images/hello.gif" width="30px"> Hey, I'm Gabi
 
 - :computer:  Junior Front-End Developer 
-- 💼 Currently an intern at IBM
+- 💼 Currently working as an intern at IBM
 - 🎓 Undergraduate in Computer Science
 - 🎨 UX/UI enthusiast
 - 🌱 Learning Node.js, React e Next.js 
