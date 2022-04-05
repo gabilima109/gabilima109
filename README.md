@@ -6,7 +6,6 @@
 - 💼 Currently working as an intern at IBM
 - 🎓 Undergraduate in Computer Science
 - 🎨 UX/UI enthusiast
-- 🌱 Learning Node.js, React e Next.js 
 
 </br>
 
@@ -40,5 +39,3 @@
 # 📫 Let's Talk :)
 
 - 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
-- 🌱 [My "Digital Garden"](https://jardim-gabilima109.vercel.app/)
-- 🖥️ [Portfolio](https://gabriela-lima.super.site/)
