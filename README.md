@@ -9,9 +9,11 @@
   <li>🎉 Fun Fact: I'm a twin</li>
   </ul>
  
+ <br/>
+ <br/>
  <details>
  <summary><samp>&#9776;</samp> Let's Talk 🔗 </i> </summary>
- <br>  
+ <br/>  
 
  - 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
  </details>
