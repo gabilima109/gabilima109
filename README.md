@@ -12,14 +12,26 @@
  <br/>
  <br/>
  <details>
- <summary><samp>&#9776;</samp> Let's Talk 🔗 </i> </summary>
+ <summary><samp>&#9776;</samp> How to reach me 🔗 </i> </summary>
  <br/>  
 
  - 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
+ -  [Twitter](https://twitter.com/gabrielac_lima)
  </details>
-
+ 
+  <details>
+ <summary><samp>&#9776;</samp> Tech Stack 🛠️ </i> </summary>
+ <br/>  
+ 
+      ⚛️ React/Next.js (Beginner)
+      📦 Node.JS (Beginner)
+      🐍 Python (Beginner)
+      
+     
+      
+ </details>
 </samp>
-  
+
 <br/>
 
 <pre>
