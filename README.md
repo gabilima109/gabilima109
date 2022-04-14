@@ -15,7 +15,7 @@
 <br/>
 
 <samp>
-  <h2>About me 👋️</h2>
+  <h2>About me</h2>
   <ul>
   <li>🔭 I’m currently an intern on <a href="https://www.ibm.com/">IBM</a>.</li>
   <li>🧐 Learning about <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong>.</li>
@@ -23,11 +23,16 @@
   <li>📙 Check out my <a href="">resume</a>.</li>
   <li>🎉 Fun Fact: I'm a twin</li>
   </ul>
+ 
+ <h2>Let's Talk :)</h2>
+
+- 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
 </samp>
   
 <br/>
 
-```md
+
+```
 
                  ,----------------,              ,---------,
             ,-----------------------,          ,"        ,"|
