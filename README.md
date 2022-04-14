@@ -1,9 +1,4 @@
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8D1D8&background=FFFFFF00&lines=Front-End+Developer;UX%2FUI+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8D1D8&background=FFFFFF00&lines=Front-End+Developer;UX%2FUI+Enthusiast)](https://git.io/typing-svg)
 
 <samp>
   <img width="160px" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
