@@ -1,5 +1,4 @@
-
- <img width="150px" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
+<img width="170px" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
  
 <samp>
   <h2>About me</h2>
