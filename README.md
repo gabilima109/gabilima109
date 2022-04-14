@@ -1,41 +1,38 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8D1D8&background=FFFFFF00&lines=Front-End+Developer;UX%2FUI+Enthusiast)](https://git.io/typing-svg)
 
+<samp>
+  <img width="200px" align="right" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
 
-## <img src="https://raw.githubusercontent.com/gabilima109/gabilima109/main/images/hello.gif" width="30px"> Hey, I'm Gabi
+  <h2>About me</h2>
+  <ul>
+  <li>🔭 I’m currently an intern on <a href="https://www.ibm.com/">IBM</a>.</li>
+  <li>🧐 Learning about <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong>.</li>
+  <li>💬 Ping me about <strong>react, web acessibility, ux/ui, and game design stuff</strong>.</li>
+  <li>📙 Check out my <a href="">resume</a>.</li>
+  <li>🎉 Fun Fact: I'm a twin</li>
+  </ul>
+</samp>
 
-- :computer:  Junior Front-End Developer 
-- 💼 Currently working as an intern at IBM
-- 🎓 Undergraduate in Computer Science
-- 🎨 UX/UI enthusiast
+<br/>
 
-</br>
+```md
 
-# 🛠️ Tech Stack
-
-### 🖥️ Front-End
-<p align="left">
-  <img title="HTML" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/html-icon.svg" width="50x">
-  <img title="CSS" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/css-icon.svg" width="50x">
-  <img title="JavaScript" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/js-icon.svg" width="50x">
-  <img title="React.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/react-icon.svg" width="50x">
-  <img title="Next.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/nextjs-icon.svg" width="50x">
-</p>
-
-### ⚙️ Back-End
-<p align="left">
-  <img title="Node.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/node-icon.svg" width="50x">
-  <img title="Postgresql" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/postgresql-icon.svg" width="50x">
-</p>
-
-### 📦 Other
-<p align="left">
-  <img title="Python" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/python-icon.svg" width="50x">
-  <img title="C++" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/cpp-icon.svg" width="50x">
-  <img title="Figma" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/figma-icon.svg" width="50x">
-  <img title="Git" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/git-icon.svg" width="50x">
-</p>
-
-</br>
-
-# 📫 Let's Talk :)
-
-- 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
+                 ,----------------,              ,---------,
+            ,-----------------------,          ,"        ,"|
+          ,"                      ,"|        ,"        ,"  |
+         +-----------------------+  |      ,"        ,"    |
+         |  .-----------------.  |  |     +---------+      |
+         |  |                 |  |  |     | -==----'|      |
+         |  |  preguiça       |  |  |     |         |      |
+         |  |  de             |  |  |/----|`---=    |      |
+         |  |  <codar/>       |  |  |   ,/|==== ooo |      ;
+         |  |                 |  |  |  // |(((( [33]|    ,"
+         |  `-----------------'  |," .;'| |((((     |  ,"
+         +-----------------------+  ;;  | |         |,"    
+            /_)______________(_/  //'   | +---------+
+       ___________________________/___  `,
+      /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+     / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+    /_==__==========__==_ooo__ooo=_/'   /___________,"
+    `-----------------------------'
+  ```
