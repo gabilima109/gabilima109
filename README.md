@@ -6,7 +6,6 @@
   <li>🔭 I’m currently an intern on <a href="https://www.ibm.com/">IBM</a>.</li>
   <li>🧐 Learning about <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong>.</li>
   <li>💬 Ping me about <strong>react, web acessibility, ux/ui, and game design stuff</strong>.</li>
-  <li>📙 Check out my <a href="">resume</a>.</li>
   <li>🎉 Fun Fact: I'm a twin</li>
   </ul>
  
