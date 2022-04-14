@@ -2,17 +2,15 @@
  
 <samp>
   <h2>About me</h2>
-  <ul>
-  <li>🔭 I’m currently an intern at <a href="https://www.ibm.com/">IBM</a></li>
-  <li>🧐 Learning about <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li>
-  <li>💬 Ping me about <strong>react, ux/ui, and cute cat videos</strong></li>
-  <li>🎉 Fun Fact: I'm a twin</li>
-  </ul>
+  - 🔭 I’m currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
+  - 🧐 Learning about <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
+  - 💬 Ping me about <strong>react, ux/ui, and cute cat videos</strong></li> <br/>
+  - 🎉 Fun Fact: I'm a twin</li>
+<br/>
+<br/>
  
- <br/>
- <br/>
-  <details>
- <summary><samp>&#9776;</samp> Tech Stack 🛠️ </i> </summary>
+<details>
+<summary><samp>&#9776;</samp> Tech Stack 🛠️ </i> </summary>
  
 ### 🖥️ Front-End
 <p align="left">
