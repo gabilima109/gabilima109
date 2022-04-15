@@ -2,10 +2,12 @@
  
 <samp>
   <h2>About me</h2>
+  <h4>
   - 🔭 I’m currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
   - 🧐 Learning about <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
   - 💬 Ping me about <strong>react, ux/ui, and cute cat videos</strong></li> <br/>
   - 🎉 Fun Fact: I'm a twin</li>
+  </h4>
 <br/>
 <br/>
 <br/>
