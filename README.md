@@ -6,7 +6,7 @@
         </samp>
 </h3>
 <samp>
-  - 🔭 I’m currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
+  - 🔭 Currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
   - ⚙️ I use daily: .js, .html, .css<br/>
   - 🧐 Learning <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
   - 💬 Ping me about <strong>react, ux/ui, and cute cat videos</strong></li> <br/>
