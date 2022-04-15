@@ -1,7 +1,11 @@
 <img width="170px" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
  
- <samp>
- <h2>About me</h2>
+ <h3>
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/gabriela-correa-da-silva-lima/">Gabi</a></b>
+        </samp>
+</h3>
+<samp>
   - 🔭 I’m currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
   - ⚙️ I use daily: .js, .html, .css<br/>
   - 🧐 Learning <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
