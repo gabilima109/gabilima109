@@ -1,4 +1,4 @@
-<img width="110px" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
+<img width="160" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
  
  <h3>
   <samp>&gt; Hey There!, I am
