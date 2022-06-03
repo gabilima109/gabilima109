@@ -47,8 +47,7 @@
  <summary><samp>&#9776;</samp> How to reach me 🔗 </i> </summary>
  <br/>  
 
- - 💼 [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
- - 🐦 [Twitter](https://twitter.com/gabrielac_lima)
+ - [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
  - Discord: gabriela lima#4749
  </details>
  
