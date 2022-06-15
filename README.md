@@ -3,7 +3,6 @@
 </h3>
 <samp>
   - computer science undergraduate<br/>
-  - currently an intern at <a href="https://www.ibm.com/">IBM</a><br/>
   - i use daily: .js, .html, .css<br/>
   - learning <strong>reactjs/native, java and nodejs</strong><br/>
   - ping me about <strong>web acessibility, ux/ui, and cute cat videos</strong><br/>
