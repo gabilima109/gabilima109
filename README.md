@@ -1,17 +1,14 @@
- <h3>
-  <samp>&gt; Hey There!, I am Gabi
-  </samp>
+<h3>
+  <samp>&gt; Hey There!, I am Gabi</samp>
 </h3>
 <samp>
-  - Currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
+  - Computer Science undergraduate<br/>
+  - Currently an intern at <a href="https://www.ibm.com/">IBM</a><br/>
   - I use daily: .js, .html, .css<br/>
-  - Learning <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
-  - Ping me about <strong>react, ux/ui, and cute cat videos</strong></li> <br/>
-  - Fun Fact: I'm a twin</li>
+  - Learning <strong>reactjs/native, java and nodejs</strong><br/>
+  - Ping me about <strong>web acessibility, ux/ui, and cute cat videos</strong><br/>
 <br/>
-<br/>
-<br/>
- 
+
 <details>
 <summary><samp>&#9776;</samp> Tech Stack </i> </summary>
  
@@ -43,9 +40,7 @@
  <details>
  <summary><samp>&#9776;</samp> How to reach me </i></summary>
  <br/>  
-
  - [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
- - Discord: gabriela lima#4749
  </details>
  
  
