@@ -34,6 +34,7 @@
   <img title="Figma" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/figma-icon.svg" width="50x">
   <img title="Git" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/git-icon.svg" width="50x">
 </p>
+</details>
   
 </samp>
 
