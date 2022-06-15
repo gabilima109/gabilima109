@@ -1,24 +1,21 @@
-<img width="160" align="left" src="https://user-images.githubusercontent.com/78867705/163468239-c9ca2c8b-0bc5-4881-bd23-bcf6dac34b0b.gif" />
- 
  <h3>
-  <samp>&gt; Hey There!, I am
-          <b><a target="_blank" href="https://www.linkedin.com/in/gabriela-correa-da-silva-lima/">Gabi</a></b>
+  <samp>&gt; Hey There!, I am Gabi
   </samp>
 </h3>
 <samp>
-  - 🔭 Currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
-  - ⚙️ I use daily: .js, .html, .css<br/>
-  - 🧐 Learning <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
-  - 💬 Ping me about <strong>react, ux/ui, and cute cat videos</strong></li> <br/>
-  - 🎉 Fun Fact: I'm a twin</li>
+  - Currently an intern at <a href="https://www.ibm.com/">IBM</a></li> <br/>
+  - I use daily: .js, .html, .css<br/>
+  - Learning <strong>front-end development</strong>, <strong>web acessibility</strong>, and a bit of <strong>game design</strong></li> <br/>
+  - Ping me about <strong>react, ux/ui, and cute cat videos</strong></li> <br/>
+  - Fun Fact: I'm a twin</li>
 <br/>
 <br/>
 <br/>
  
 <details>
-<summary><samp>&#9776;</samp> Tech Stack 🛠️ </i> </summary>
+<summary><samp>&#9776;</samp> Tech Stack </i> </summary>
  
-### 🖥️ Front-End
+### Front-End
 <p align="left">
   <img title="HTML" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/html-icon.svg" width="50x">
   <img title="CSS" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/css-icon.svg" width="50x">
@@ -27,13 +24,13 @@
   <img title="Next.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/nextjs-icon.svg" width="50x">
 </p>
 
-### ⚙️ Back-End
+### Back-End
 <p align="left">
   <img title="Node.js" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/node-icon.svg" width="50x">
   <img title="Postgresql" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/postgresql-icon.svg" width="50x">
 </p>
 
-### 📦 Other
+### Other
 <p align="left">
   <img title="Python" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/python-icon.svg" width="50x">
   <img title="C++" src="https://raw.githubusercontent.com/gabilima109/gabilima109/7593f21d248dab740fa2f16ab935e171b2651bde/images/cpp-icon.svg" width="50x">
@@ -44,7 +41,7 @@
     
  </details>
  <details>
- <summary><samp>&#9776;</samp> How to reach me 🔗 </i> </summary>
+ <summary><samp>&#9776;</samp> How to reach me </i></summary>
  <br/>  
 
  - [Linkedin](https://www.linkedin.com/in/gabriela-correa-da-silva-lima/)
@@ -64,9 +61,9 @@
          +-----------------------+  |      ,"        ,"    |
          |  .-----------------.  |  |     +---------+      |
          |  |                 |  |  |     | -==----'|      |
-         |  |  preguiça       |  |  |     |         |      |
-         |  |  de             |  |  |/----|`---=    |      |
-         |  |  <codar/>       |  |  |   ,/|==== ooo |      ;
+         |  |    help         |  |  |     |         |      |
+         |  |                 |  |  |/----|`---=    |      |
+         |  |                 |  |  |   ,/|==== ooo |      ;
          |  |                 |  |  |  // |(((( [33]|    ,"
          |  `-----------------'  |," .;'| |((((     |  ,"
          +-----------------------+  ;;  | |         |,"    
