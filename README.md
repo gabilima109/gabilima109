@@ -2,9 +2,8 @@
   <samp>&gt; hey there, i'm gabi</samp>
 </h3>
 <samp>
-  - software developer intern at @IBM
+  - software developer intern at @IBM<br/>
   - computer science undergraduate<br/>
-  - learning <strong>reactjs/native, java and nodejs</strong><br/>
   - ping me about <strong>web acessibility, ux/ui, and cute cat videos</strong><br/>
 <br/>
 
