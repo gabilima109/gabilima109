@@ -1,9 +1,9 @@
 <h3>
-  <samp>&gt; hey there!, i am gabi</samp>
+  <samp>&gt; hey there, i'm gabi</samp>
 </h3>
 <samp>
+  - software developer intern at @IBM
   - computer science undergraduate<br/>
-  - i use daily: .js, .html, .css<br/>
   - learning <strong>reactjs/native, java and nodejs</strong><br/>
   - ping me about <strong>web acessibility, ux/ui, and cute cat videos</strong><br/>
 <br/>
